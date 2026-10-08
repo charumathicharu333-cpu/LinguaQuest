@@ -1,0 +1,22 @@
+{"category":"Geography","questions":[
+{"id":"g01","prompt":"Which is the largest ocean on Earth?","choices":["Atlantic","Indian","Pacific","Arctic"],"answer":2,"explanation":"The Pacific Ocean is the largest and deepest ocean."},
+{"id":"g02","prompt":"What is the capital city of Japan?","choices":["Kyoto","Tokyo","Osaka","Sapporo"],"answer":1,"explanation":"Tokyo is Japan's capital and largest metropolitan area."},
+{"id":"g03","prompt":"Which continent is the Sahara Desert in?","choices":["Asia","Africa","South America","Europe"],"answer":1,"explanation":"The Sahara stretches across much of northern Africa."},
+{"id":"g04","prompt":"Which imaginary line divides Earth into north and south halves?","choices":["Prime Meridian","Equator","Tropic of Cancer","Date Line"],"answer":1,"explanation":"The Equator circles Earth halfway between the poles."},
+{"id":"g05","prompt":"Which country is shaped like a boot?","choices":["Italy","Norway","India","Chile"],"answer":0,"explanation":"Italy's peninsula is often compared to a boot."},
+{"id":"g06","prompt":"What is the capital of France?","choices":["Lyon","Paris","Nice","Bordeaux"],"answer":1,"explanation":"Paris is the capital of France."},
+{"id":"g07","prompt":"Which river flows through Egypt and into the Mediterranean Sea?","choices":["Amazon","Nile","Thames","Danube"],"answer":1,"explanation":"The Nile flows north through Egypt to the Mediterranean."},
+{"id":"g08","prompt":"Mount Everest is part of which mountain range?","choices":["Andes","Alps","Himalayas","Rockies"],"answer":2,"explanation":"Everest stands in the Himalayas on the Nepal-China border."},
+{"id":"g09","prompt":"Which continent has the most countries?","choices":["Africa","Europe","Australia","Antarctica"],"answer":0,"explanation":"Africa has more sovereign countries than any other continent."},
+{"id":"g10","prompt":"Which country has a maple leaf on its flag?","choices":["Canada","Brazil","Sweden","Egypt"],"answer":0,"explanation":"The maple leaf is a well-known symbol of Canada."},
+{"id":"g11","prompt":"What is the capital of India?","choices":["Mumbai","New Delhi","Kolkata","Chennai"],"answer":1,"explanation":"New Delhi is India's capital territory and seat of government."},
+{"id":"g12","prompt":"Which ocean lies between Africa and Australia?","choices":["Arctic","Atlantic","Indian","Pacific"],"answer":2,"explanation":"The Indian Ocean lies between Africa, Asia and Australia."},
+{"id":"g13","prompt":"On which continent is the Amazon rainforest mostly located?","choices":["South America","Europe","Africa","Asia"],"answer":0,"explanation":"Most of the Amazon rainforest is in Brazil and neighbouring countries."},
+{"id":"g14","prompt":"Which country is also a continent?","choices":["Greenland","Australia","Madagascar","Iceland"],"answer":1,"explanation":"Australia is both a country and the smallest continent."},
+{"id":"g15","prompt":"What do contour lines on a map commonly show?","choices":["Elevation","Language","Rainfall only","Population names"],"answer":0,"explanation":"Contour lines connect places at the same elevation."},
+{"id":"g16","prompt":"Which direction is opposite east on a compass?","choices":["North","South","West","North-east"],"answer":2,"explanation":"West is directly opposite east."},
+{"id":"g17","prompt":"Which is the world's largest hot desert?","choices":["Gobi","Sahara","Kalahari","Mojave"],"answer":1,"explanation":"The Sahara is the largest hot desert; Antarctica is the largest desert overall."},
+{"id":"g18","prompt":"What is a group of islands called?","choices":["Peninsula","Archipelago","Plateau","Valley"],"answer":1,"explanation":"An archipelago is a chain or group of islands."},
+{"id":"g19","prompt":"Which country is home to the city of Kyoto?","choices":["China","Japan","Thailand","South Korea"],"answer":1,"explanation":"Kyoto was Japan's imperial capital for many centuries."},
+{"id":"g20","prompt":"Which pole is covered by a continent of ice?","choices":["North Pole","South Pole","Both equally","Neither"],"answer":1,"explanation":"Antarctica is a continent surrounding the South Pole."}
+]}

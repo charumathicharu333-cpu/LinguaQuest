@@ -1,0 +1,1 @@
+The MVP ships without recorded voice clips. AudioService tries the bundled per-language path and safely falls back to on-screen text when a clip is not present. Add licensed files under en/, hi/, or ja/ using the word ids requested by LessonScreen.

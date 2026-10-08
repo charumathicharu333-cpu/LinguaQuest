@@ -1,0 +1,22 @@
+{"category":"General Knowledge","questions":[
+{"id":"k01","prompt":"How many days are in a leap year?","choices":["364","365","366","367"],"answer":2,"explanation":"A leap year has one extra day in February, for 366 days."},
+{"id":"k02","prompt":"Which instrument has black and white keys?","choices":["Piano","Flute","Drum","Trumpet"],"answer":0,"explanation":"A piano is played with a keyboard of black and white keys."},
+{"id":"k03","prompt":"How many sides does a hexagon have?","choices":["Five","Six","Seven","Eight"],"answer":1,"explanation":"The prefix 'hexa-' means six."},
+{"id":"k04","prompt":"Which language is primarily spoken in Brazil?","choices":["Spanish","Portuguese","French","Italian"],"answer":1,"explanation":"Portuguese is Brazil's official language."},
+{"id":"k05","prompt":"What is the name for a shape with three sides?","choices":["Triangle","Square","Pentagon","Circle"],"answer":0,"explanation":"A triangle has three straight sides and three corners."},
+{"id":"k06","prompt":"Which sport uses a racket and a shuttlecock?","choices":["Tennis","Badminton","Hockey","Volleyball"],"answer":1,"explanation":"Players hit a shuttlecock across a net in badminton."},
+{"id":"k07","prompt":"How many minutes are in one hour?","choices":["30","60","90","100"],"answer":1,"explanation":"One hour is made up of 60 minutes."},
+{"id":"k08","prompt":"Which colour do blue and yellow paint usually make when mixed?","choices":["Purple","Green","Orange","Pink"],"answer":1,"explanation":"Blue and yellow pigments mix to make green."},
+{"id":"k09","prompt":"What do we call a story that teaches a lesson using animals?","choices":["Fable","Atlas","Recipe","Riddle"],"answer":0,"explanation":"A fable is a short story that often uses animals to share a moral."},
+{"id":"k10","prompt":"Which month comes after September?","choices":["August","October","November","December"],"answer":1,"explanation":"October follows September in the calendar."},
+{"id":"k11","prompt":"What is the currency used in Japan?","choices":["Won","Yen","Rupee","Euro"],"answer":1,"explanation":"Japan's currency is the yen."},
+{"id":"k12","prompt":"How many players from one team are on court in basketball?","choices":["Five","Six","Seven","Eleven"],"answer":0,"explanation":"Basketball teams play with five players on court per side."},
+{"id":"k13","prompt":"Which punctuation mark ends a direct question?","choices":["Comma","Question mark","Colon","Apostrophe"],"answer":1,"explanation":"A question mark is used at the end of a direct question."},
+{"id":"k14","prompt":"What is a person who writes music called?","choices":["Composer","Sculptor","Pilot","Botanist"],"answer":0,"explanation":"A composer creates music."},
+{"id":"k15","prompt":"Which day comes immediately before Friday?","choices":["Wednesday","Thursday","Saturday","Monday"],"answer":1,"explanation":"Thursday comes directly before Friday."},
+{"id":"k16","prompt":"How many colours are traditionally named in a rainbow?","choices":["Five","Six","Seven","Eight"],"answer":2,"explanation":"The traditional list names red, orange, yellow, green, blue, indigo and violet."},
+{"id":"k17","prompt":"Which tool helps you find a word's meaning and spelling?","choices":["Dictionary","Calendar","Thermometer","Globe"],"answer":0,"explanation":"A dictionary gives word meanings and often pronunciation and spelling."},
+{"id":"k18","prompt":"What do we call a young cat?","choices":["Puppy","Kitten","Foal","Cub"],"answer":1,"explanation":"A young cat is called a kitten."},
+{"id":"k19","prompt":"Which shape has no corners?","choices":["Square","Triangle","Circle","Rectangle"],"answer":2,"explanation":"A circle has a continuous curved edge and no corners."},
+{"id":"k20","prompt":"Which is the largest land animal?","choices":["Giraffe","African elephant","Hippopotamus","Rhinoceros"],"answer":1,"explanation":"The African elephant is the largest living land animal."}
+]}

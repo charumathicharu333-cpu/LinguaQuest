@@ -1,0 +1,22 @@
+{"category":"Science","questions":[
+{"id":"s01","prompt":"Which star is closest to Earth?","choices":["The Sun","Sirius","Polaris","Vega"],"answer":0,"explanation":"The Sun is our nearest star and gives Earth light and warmth."},
+{"id":"s02","prompt":"What do plants take in from the air to make food?","choices":["Oxygen","Carbon dioxide","Helium","Water vapour only"],"answer":1,"explanation":"Plants use carbon dioxide, water and sunlight in photosynthesis."},
+{"id":"s03","prompt":"Which state of water has a fixed shape?","choices":["Liquid","Gas","Solid","Steam"],"answer":2,"explanation":"A solid, such as ice, keeps its shape unless it is changed."},
+{"id":"s04","prompt":"What force pulls objects toward Earth?","choices":["Magnetism","Gravity","Friction","Sound"],"answer":1,"explanation":"Gravity attracts objects with mass toward one another."},
+{"id":"s05","prompt":"Which organ pumps blood around your body?","choices":["Lung","Brain","Heart","Stomach"],"answer":2,"explanation":"The heart pumps blood through a network of blood vessels."},
+{"id":"s06","prompt":"What is the centre of our solar system?","choices":["Earth","The Moon","The Sun","Mars"],"answer":2,"explanation":"The planets orbit the Sun, which is the solar system's star."},
+{"id":"s07","prompt":"Which material is attracted to a magnet?","choices":["Paper","Iron","Wood","Glass"],"answer":1,"explanation":"Iron is a magnetic metal; ordinary paper, wood and glass are not."},
+{"id":"s08","prompt":"What do we call animals that eat only plants?","choices":["Carnivores","Herbivores","Omnivores","Decomposers"],"answer":1,"explanation":"Herbivores get their food from plants."},
+{"id":"s09","prompt":"Which part of a plant usually absorbs water from soil?","choices":["Flower","Leaf","Root","Fruit"],"answer":2,"explanation":"Roots take up water and minerals from the soil."},
+{"id":"s10","prompt":"What gas do humans need to breathe?","choices":["Oxygen","Carbon dioxide","Neon","Methane"],"answer":0,"explanation":"Our cells use oxygen to release energy from food."},
+{"id":"s11","prompt":"How many legs does an insect have?","choices":["Four","Six","Eight","Ten"],"answer":1,"explanation":"Insects have three pairs of legs, making six in total."},
+{"id":"s12","prompt":"What is a baby frog called?","choices":["Cub","Tadpole","Chick","Calf"],"answer":1,"explanation":"A frog begins life as an aquatic tadpole."},
+{"id":"s13","prompt":"Which tool measures temperature?","choices":["Compass","Thermometer","Ruler","Scale"],"answer":1,"explanation":"A thermometer measures how hot or cold something is."},
+{"id":"s14","prompt":"What is the change from liquid water to water vapour called?","choices":["Freezing","Melting","Evaporation","Condensation"],"answer":2,"explanation":"Evaporation happens when liquid changes into a gas."},
+{"id":"s15","prompt":"Which planet is famous for its large rings?","choices":["Mercury","Saturn","Earth","Venus"],"answer":1,"explanation":"Saturn's bright rings are made mostly of ice and rocky pieces."},
+{"id":"s16","prompt":"Which sense organ helps you hear?","choices":["Eye","Ear","Nose","Skin"],"answer":1,"explanation":"Your ears detect sound vibrations."},
+{"id":"s17","prompt":"What do bees help many flowering plants do?","choices":["Pollinate","Freeze","Glow","Move"],"answer":0,"explanation":"Bees carry pollen between flowers, helping plants make seeds."},
+{"id":"s18","prompt":"Which is a renewable energy source?","choices":["Coal","Sunlight","Petrol","Natural gas"],"answer":1,"explanation":"Sunlight is naturally replenished and can generate solar power."},
+{"id":"s19","prompt":"What is the hard outer covering of a turtle called?","choices":["Shell","Feather","Scale leaf","Fur"],"answer":0,"explanation":"A turtle's shell protects its body."},
+{"id":"s20","prompt":"What happens to most solids when warmed?","choices":["They always vanish","They often expand","They become magnetic","They stop having mass"],"answer":1,"explanation":"Heating makes particles move more, so many solids expand slightly."}
+]}

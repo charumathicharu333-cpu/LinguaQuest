@@ -1,0 +1,22 @@
+{"category":"Logic","questions":[
+{"id":"l01","prompt":"What comes next: 2, 4, 6, 8, ...?","choices":["9","10","11","12"],"answer":1,"explanation":"The pattern adds two each time, so 8 + 2 = 10."},
+{"id":"l02","prompt":"A basket has 3 red and 2 blue apples. How many apples are there?","choices":["4","5","6","8"],"answer":1,"explanation":"Add the groups: 3 + 2 = 5 apples."},
+{"id":"l03","prompt":"Which does not belong: square, triangle, circle, banana?","choices":["Square","Triangle","Circle","Banana"],"answer":3,"explanation":"The first three are shapes; a banana is a fruit."},
+{"id":"l04","prompt":"Mia is taller than Lee. Lee is taller than Jo. Who is shortest?","choices":["Mia","Lee","Jo","Cannot tell"],"answer":2,"explanation":"The order is Mia, then Lee, then Jo from tallest to shortest."},
+{"id":"l05","prompt":"What comes next: A, C, E, G, ...?","choices":["H","I","J","K"],"answer":1,"explanation":"The pattern skips one letter each time: A, C, E, G, I."},
+{"id":"l06","prompt":"If today is Tuesday, what day will it be in two days?","choices":["Wednesday","Thursday","Friday","Sunday"],"answer":1,"explanation":"Wednesday is one day later; Thursday is two days later."},
+{"id":"l07","prompt":"A clock shows 3:00. What angle do its hands make?","choices":["A right angle","A straight angle","A full turn","No angle"],"answer":0,"explanation":"At 3:00 the hands point in perpendicular directions, making 90 degrees."},
+{"id":"l08","prompt":"There are 10 birds. Three fly away. How many remain?","choices":["3","7","10","13"],"answer":1,"explanation":"Ten minus three is seven."},
+{"id":"l09","prompt":"Which number is missing: 5, 10, 15, __, 25?","choices":["18","20","22","30"],"answer":1,"explanation":"The sequence increases by five, so the missing number is 20."},
+{"id":"l10","prompt":"If all Zips are blue and this toy is a Zip, what colour is it?","choices":["Red","Blue","Green","Not enough information"],"answer":1,"explanation":"The rule says every Zip is blue, so this Zip is blue."},
+{"id":"l11","prompt":"Which is heavier: 1 kilogram of feathers or 1 kilogram of rice?","choices":["Feathers","Rice","They weigh the same","Cannot compare"],"answer":2,"explanation":"Both have a mass of one kilogram."},
+{"id":"l12","prompt":"A shape has 4 equal sides and 4 right angles. What is it?","choices":["Rectangle only","Square","Triangle","Pentagon"],"answer":1,"explanation":"A square has four equal sides and four right angles."},
+{"id":"l13","prompt":"What comes next: 1, 1, 2, 3, 5, ...?","choices":["6","7","8","10"],"answer":2,"explanation":"Each Fibonacci number adds the previous two: 3 + 5 = 8."},
+{"id":"l14","prompt":"Sam faces north and turns right. Which way is Sam facing?","choices":["West","South","East","North"],"answer":2,"explanation":"A right turn from north points east."},
+{"id":"l15","prompt":"Four friends each shake hands with every other friend once. How many handshakes?","choices":["4","6","8","12"],"answer":1,"explanation":"There are six unique pairs among four people."},
+{"id":"l16","prompt":"Which number is odd?","choices":["12","18","21","30"],"answer":2,"explanation":"21 is not divisible by two without a remainder."},
+{"id":"l17","prompt":"A box has 2 pairs of socks. How many socks is that?","choices":["2","3","4","8"],"answer":2,"explanation":"Each pair has two socks, so two pairs contain four socks."},
+{"id":"l18","prompt":"If 3 pencils cost 6 coins, how many coins does one pencil cost?","choices":["1","2","3","6"],"answer":1,"explanation":"Share six coins equally across three pencils: 6 divided by 3 is 2."},
+{"id":"l19","prompt":"Which comes first alphabetically: pear, peach, plum?","choices":["Pear","Peach","Plum","They are tied"],"answer":1,"explanation":"Both pear and peach start with 'pe'; 'a' in peach comes before 'a' in pear's third letter? Compare p-e-a to p-e-a-r: peach's next c comes before r, so peach is first."},
+{"id":"l20","prompt":"A bus starts with 8 passengers. Two get off and 5 get on. How many now?","choices":["9","10","11","15"],"answer":2,"explanation":"Start with 8, subtract 2, then add 5: 8 - 2 + 5 = 11."}
+]}
